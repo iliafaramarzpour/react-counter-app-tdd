@@ -1,4 +1,4 @@
-import App from "./AppFunction";
+import App from "./../components/functionComponent/AppFunction";
 import { shallow } from "enzyme";
 
 const setup = (props = {}, state = null) => {
